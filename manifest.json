@@ -1,0 +1,17 @@
+{
+  "name": "Minus",
+  "description": "Minus - Share simply",
+  "version": "1.1",
+  "app": {
+    "urls": [
+      "*://minus.com/",
+      "*://min.us/"
+    ],
+    "launch": {
+      "web_url": "http://minus.com/"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
